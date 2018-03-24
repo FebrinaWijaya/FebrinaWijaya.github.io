@@ -7,17 +7,13 @@ baseurl: '/PanelCV' #change it according to your repository name
 
 # Profile information
 yourname: Febrina Wijaya  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
+title: 'COMPUTER ENGINEER'  ## your title
 location: Taiwan
 
 
 ## Social Profiles
 facebook: http://www.facebook.com/febrinawijaya25  ## your facebook account url
 twitter: http://www.twitter.com/FebrinaWong  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
-
 
 
 # Update all the sections by editing the files inside _includes folder.
